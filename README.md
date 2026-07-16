@@ -1,16 +1,14 @@
-## Hi there 👋
+## Parth Patel
 
-<!--
-**Parthp28/ParthP28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Applied Data Intelligence, SJSU (2027) · San Jose, CA
 
-Here are some ideas to get you started:
+Building data pipelines and quant systems that run fast and explain themselves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Active projects**
+- [options-pricing-engine](https://github.com/Parthp28/options-pricing-engine) — Black-Scholes + Monte Carlo, vectorized Python
+- [streaming-lakehouse](https://github.com/Parthp28/streaming-lakehouse) — Kafka → Spark → Delta Lake pipeline
+- [market-data-pipeline](https://github.com/Parthp28/market-data-pipeline) — real-time market data ingestion (C++)
+
+**Stack:** Python · C++ · Apache Spark · Kafka · Airflow · PostgreSQL · AWS
+
+📫 work.parth01@gmail.com · [LinkedIn](https://linkedin.com/in/parthpatel4629)
