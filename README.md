@@ -9,6 +9,18 @@ Building data pipelines and quant systems that run fast and explain themselves.
 - [streaming-lakehouse](https://github.com/Parthp28/streaming-lakehouse) — Kafka → Spark → Delta Lake pipeline
 - [market-data-pipeline](https://github.com/Parthp28/market-data-pipeline) — real-time market data ingestion (C++)
 
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [options-pricing-engine](link) | Vectorized Black-Scholes + Monte Carlo, 8.56M prices/s | Python · NumPy · Cython |
+| [streaming-lakehouse](link) | Kafka → Spark → Delta Lake, 10.9K rows/s, 73 tests | Kafka · Spark · MinIO · dbt |
+| [market-data-pipeline](link) | Zero-copy ITCH parser, lock-free SPSC ring buffer | C++20 · FIX 4.2 |
+| [limit-order-book](link) | Price-time priority matching, 715k orders/sec, p99 5μs | Python · Cython |
+| [backtesting-engine](link) | Market microstructure simulation, slippage modeling | Python |
+
+
 **Stack:** Python · C++ · Apache Spark · Kafka · Airflow · PostgreSQL · AWS
 
 📫 work.parth01@gmail.com · [LinkedIn](https://linkedin.com/in/parthpatel4629)
